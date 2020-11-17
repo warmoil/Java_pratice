@@ -10,7 +10,7 @@ public class ArrList {
 		a.add(65463);
 		a.add(234);
 		System.out.println(a.get(2));
-
+		
 	}
 
 }
